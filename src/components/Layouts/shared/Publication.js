@@ -27,7 +27,7 @@ export default ({data}) => {
 					</div>
 					<div>
 						<div className="mb-4">
-							<p className="mb-6 text-white">🎉 Tailwind CSS v0.4.0 is out!</p>
+							<p className="mb-6 text-white"><span role="img" aria-label="">🎉</span> Tailwind CSS v0.4.0 is out!</p>
 							<p className="mb-6 text-white">Makes `apply` more useful when using !important utilities, and includes
 								an improved
 								default color palette:</p>
@@ -35,7 +35,7 @@ export default ({data}) => {
 							<p>
 								<a href="/#">
 									<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/tt_tweet1.jpg"
-											 alt="tweet image" className="border border-solid border-grey-light rounded-sm"/>
+											 alt="" className="border border-solid border-grey-light rounded-sm"/>
 								</a>
 							</p>
 						</div>

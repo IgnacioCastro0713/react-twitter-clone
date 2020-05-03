@@ -5,11 +5,11 @@ export default () => {
 		<div>
 			<div className="w-full mb-2">
 				<img src="https://pbs.twimg.com/profile_banners/895273477711769600/1502285115/1080x360"
-						 alt="tweet image" className="lg:h-48 w-full" height={48} width={60}/>
+						 alt="" className="lg:h-48 w-full" height={48} width={60}/>
 			</div>
 			<div className="flex">
 				<div className="w-9/12 mt-12">
-					<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/tt_tailwind_logo.jpg" alt="logo"
+					<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/tt_tailwind_logo.jpg" alt=""
 							 className="rounded-full h-32 w-32 lg:absolute border-4 border-solid border-black lg:pin-l lg:pin-t lg:-mt-32 ml-2"/>
 				</div>
 				<button
