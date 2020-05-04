@@ -13,11 +13,11 @@ export default () => {
 							 className="rounded-full h-32 w-32 lg:absolute border-4 border-solid border-black lg:pin-l lg:pin-t lg:-mt-32 ml-2"/>
 				</div>
 				<button
-					className="rounded-full h-10 w-10 flex bg-transparent right-0 text-xs justify-center mr-2 hover:bg-blue-500 text-blue-600 hover:text-white border border-blue-600 hover:border-transparent font-medium">
+					className="rounded-full h-10 w-10 flex bg-transparent right-0 text-xs justify-center mr-2 hover:bg-blue-hover-button text-blue-600 hover:text-blue-600 border border-blue-600 hover:border-blue-600 font-medium">
 					<i className="fa fa-ellipsis-h fa-lg"/>
 				</button>
 				<button
-					className="w-1/6 bg-transparent inset-y-0.right-0 text-xs hover:bg-blue-500 text-blue-600 hover:text-white border border-blue-600 hover:border-transparent font-medium py-2 px-4 rounded-full h-10">
+					className="w-1/6 bg-transparent inset-y-0.right-0 text-xs hover:bg-blue-hover-button text-blue-600 hover:text-blue-600 border border-blue-600 hover:border-blue-600 font-medium py-2 px-4 rounded-full h-10">
 					follow
 				</button>
 			</div>

@@ -8,7 +8,8 @@ module.exports = {
 				'blue-hover-nav': '#162d40',
 				'blue-hover-nav-item': '#1da1f2',
 				'blue-search': '#253341',
-				'blue-who-to-follow': '#192734'
+				'blue-who-to-follow': '#192734',
+				'blue-hover-button': '#20394d',
 			}
 		},
 	},

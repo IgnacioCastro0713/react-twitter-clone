@@ -24,7 +24,7 @@ export default () => {
 							<a href="/#" className="block text-gray-600">@nuxt_js</a>
 						</div>
 						<button
-							className="bg-transparent text-xs hover:bg-blue-500 text-blue-600 font-semibold hover:text-white py-0 px-4 border border-blue-600 hover:border-transparent rounded-full">
+							className="bg-transparent text-xs hover:bg-blue-hover-button text-blue-600 font-semibold hover:text-blue-600 py-0 px-4 border border-blue-600 hover:border-blue-600 rounded-full">
 							Follow
 						</button>
 					</div>
@@ -44,7 +44,7 @@ export default () => {
 							<a href="/#" className="block text-gray-600">@LaraconEU</a>
 						</div>
 						<button
-							className="bg-transparent text-xs hover:bg-blue-500 text-blue-600 font-semibold hover:text-white py-0 px-4 border border-blue-600 hover:border-transparent rounded-full">
+							className="bg-transparent text-xs hover:bg-blue-hover-button text-blue-600 font-semibold hover:bg-blue-600 py-0 px-4 border border-blue-600 hover:border-blue-600 rounded-full">
 							Follow
 						</button>
 					</div>

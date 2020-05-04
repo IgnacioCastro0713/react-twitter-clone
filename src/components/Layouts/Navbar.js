@@ -15,7 +15,7 @@ export default () => {
 			<div className="lg:w-1/4 h-16 py-3 pl-3">
 				<div className="mr-4">
 					<input type="text"
-								 className="bg-grey-lighter rounded-full mt-1 rounded-full py-3 pl-4 text-xs w-full h-10 text-white bg-blue-search rounded-full focus:outline-none focus:shadow-outline "
+								 className="rounded-full mt-1 rounded-full py-3 pl-4 text-xs w-full h-10 text-white bg-blue-search rounded-full focus:outline-none focus:shadow-outline "
 								 placeholder="Search Twitter"/>
 				</div>
 			</div>
